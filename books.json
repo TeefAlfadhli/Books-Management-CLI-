@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Animal Farm",
+        "Author": "George Orwell",
+        "status": "Unread",
+        "createdAt": "2024-11-25T01:12:01.220598",
+        "updatedAt": "2024-11-25T01:16:28.128629"
+    },
+    {
+        "id": 2,
+        "title": "elena Undone",
+        "Author": "Traci Dinwiddie",
+        "status": "Read",
+        "createdAt": "2024-11-25T01:17:58.003670",
+        "updatedAt": "2024-11-25T01:17:58.003677"
+    },
+    {
+        "id": 4,
+        "title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "status": "Unread",
+        "createdAt": "2024-11-25T01:19:48.575824",
+        "updatedAt": "2024-11-25T01:23:20.658890"
+    },
+    {
+        "id": 5,
+        "title": "The Da Vinci Code",
+        "Author": "Dan Brown",
+        "status": "Unread",
+        "createdAt": "2024-11-25T01:20:18.697725",
+        "updatedAt": "2024-11-25T01:22:22.882304"
+    },
+    {
+        "id": 6,
+        "title": "The Twilight Saga",
+        "Author": "Stephenie Meyer",
+        "status": "Read",
+        "createdAt": "2024-11-25T01:20:46.919123",
+        "updatedAt": "2024-11-25T01:20:46.919128"
+    }
+]
